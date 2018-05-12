@@ -1,0 +1,28 @@
+_repo: Knut-Hamsun_36754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Larsen, Hanna Astrup
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '38453'
+    url: http://www.gutenberg.org/2009/agents/38453
+description: ''
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36754'
+  lccn: '22022059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Norwegian -- Biography'
+- !lcc 'PT'
+- !lcsh 'Hamsun, Knut, 1859-1952'
+title: Knut Hamsun
+url: http://www.gutenberg.org/ebooks/36754
